@@ -1,6 +1,6 @@
-<p align="center">
-  <h1 align="center">🔐 ZeroDayPulse</h1>
-  <p align="center">
+<p>
+  <h1>🔐 ZeroDayPulse</h1>
+  <p>
     <b>AI-Driven Zero-Day Vulnerability Prediction & Analysis Platform</b><br>
     Real-time CVE Severity Prediction • GenAI Explainability • Open-Source
   </p>
@@ -143,7 +143,7 @@ Interactive Streamlit Dashboard
 ## 🚀 How to Run Locally
 
 ### 1️⃣ Install Dependencies
-```bash
+
 pip install -r requirements.txt
 
 2️⃣ Run the Dashboard
@@ -196,3 +196,5 @@ Cybersecurity Researcher | Ethical Hacking Enthusiast | AI & GenAI Practitioner
 
 This project is intended for academic and research purposes only.
 
+<p> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
+✅
