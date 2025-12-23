@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML models & vectorizers
+*.pkl
+
+# Large / raw data
+*.csv
+*.json
+*.zip
+*.7z
+*.mp4
+
+# OS
+.DS_Store
