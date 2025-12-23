@@ -140,26 +140,25 @@ Interactive Streamlit Dashboard
 
 ---
 
-## 🚀 How to Run Locally
+---
 
-### 1️⃣ Install Dependencies
-**```bash
+## 🚀 **How to Run Locally**
+
+### 🔧 **1️⃣ Install Dependencies**
+```bash
 pip install -r requirements.txt
 
-
-2️⃣ Run the Dashboard
+▶️ 2️⃣ Run the Dashboard
 streamlit run app.py
 
-3️⃣ (Optional) Enable Local LLM
+🤖 3️⃣ (Optional) Enable Local LLM
 ollama pull mistral
 
-
-🧪 Sample Output
-
+📊 Sample Output
 | CVE ID        | Attack Vector | Probability | Predicted Severity |
 | ------------- | ------------- | ----------- | ------------------ |
-| CVE-2024-XXXX | NETWORK       | 0.92        | HIGH / CRITICAL    |
-| CVE-2024-YYYY | LOCAL         | 0.18        | LOW / MEDIUM       |
+| CVE-2024-XXXX | NETWORK       | 0.92        | 🔴 HIGH / CRITICAL |
+| CVE-2024-YYYY | LOCAL         | 0.18        | 🟢 LOW / MEDIUM    |
 
 
 🔮 Future Enhancements
@@ -197,6 +196,4 @@ Cybersecurity Researcher | Ethical Hacking Enthusiast | AI & GenAI Practitioner
 
 This project is intended for academic and research purposes only.
 
-<p> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
-✅
-**
+<p align="center"> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
