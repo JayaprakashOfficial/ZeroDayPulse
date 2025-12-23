@@ -143,8 +143,9 @@ Interactive Streamlit Dashboard
 ## 🚀 How to Run Locally
 
 ### 1️⃣ Install Dependencies
-
+**```bash
 pip install -r requirements.txt
+
 
 2️⃣ Run the Dashboard
 streamlit run app.py
@@ -198,3 +199,4 @@ This project is intended for academic and research purposes only.
 
 <p> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
 ✅
+**
