@@ -140,28 +140,28 @@ Interactive Streamlit Dashboard
 
 ---
 
----
-
 ## 🚀 **How to Run Locally**
 
-### 🔧 **1️⃣ Install Dependencies**
-```bash
+🔧 **1️⃣ Install Dependencies**
+
 pip install -r requirements.txt
 
-▶️ 2️⃣ Run the Dashboard
+**2️⃣ Run the Dashboard**
+
 streamlit run app.py
 
-🤖 3️⃣ (Optional) Enable Local LLM
+**3️⃣ (Optional) Enable Local LLM**
+
 ollama pull mistral
 
-📊 Sample Output
+**📊 Sample Output**
 | CVE ID        | Attack Vector | Probability | Predicted Severity |
 | ------------- | ------------- | ----------- | ------------------ |
 | CVE-2024-XXXX | NETWORK       | 0.92        | 🔴 HIGH / CRITICAL |
 | CVE-2024-YYYY | LOCAL         | 0.18        | 🟢 LOW / MEDIUM    |
 
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Integration of deep learning models (BERT, SecurityBERT, LSTM)
 
@@ -177,7 +177,8 @@ Collaborative analyst validation portal
 
 Cloud-native scalable deployment
 
-🌐 Deployment Options
+
+**🌐 Deployment Options**
 
 🌍 Streamlit Community Cloud (Free)
 
@@ -187,13 +188,13 @@ Cloud-native scalable deployment
 
 🐳 Docker-based Containers
 
-👨‍💻 Author
+
+**👨‍💻 Author**
 
 JAYAPRAKASH P
 Cybersecurity Researcher | Ethical Hacking Enthusiast | AI & GenAI Practitioner
 
-📜 License
+**📜 License**
 
 This project is intended for academic and research purposes only.
 
-<p align="center"> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
