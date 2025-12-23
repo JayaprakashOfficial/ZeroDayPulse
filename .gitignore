@@ -5,9 +5,6 @@ __pycache__/
 # Virtual environment
 venv/
 
-# ML models & vectorizers
-*.pkl
-
 # Large / raw data
 *.csv
 *.json
