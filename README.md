@@ -115,7 +115,7 @@ Interactive Streamlit Dashboard
 
 ### 🔹 Model Training
 - Algorithm: **Random Forest Classifier**
-- Baseline Accuracy: **~83%**
+- Baseline Accuracy: **~90.42%**
 - Probability-based severity prediction  
 
 ### 🔹 Model Artifacts
