@@ -196,4 +196,3 @@ Cybersecurity Researcher | Ethical Hacking Enthusiast | AI & GenAI Practitioner
 
 This project is intended for academic and research purposes only.
 
-<p align="center"> <b>⭐ If you like this project, consider giving it a star!</b><br> THANK YOU 🙏 </p> ```
